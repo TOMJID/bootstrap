@@ -1,0 +1,12 @@
+.row {
+  margin-bottom: 1rem;
+  height: 160px;
+  background: rebeccapurple;
+}
+.row div div {
+  background-color: palegreen;
+  border: 2px solid #888;
+  color: #fff;
+  padding: 1rem;
+  text-align: center;
+}
